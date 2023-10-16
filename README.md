@@ -1,7 +1,7 @@
 # Homework_SubModulo
-Projects List
-Antonio Gael Olivares Guerrero
-1.- Harrison Jansma
+Projects List  
+Antonio Gael Olivares Guerrero  
+1.- Harrison Jansma  
 Harrison Jansma is a US-based data process manager at Capital One. His website shows a clear passion for automating tedious tasks using tech.
 
  
@@ -11,7 +11,7 @@ https://harrisonjansma.com/archive
 
 
 
-2. Ger Inberg
+2. Ger Inberg  
 Ger is a Dutch freelance data scientist with a background in software engineering. He has a flair for data visualization and machine learning.
 
  
@@ -95,23 +95,23 @@ lista de verificación de habilidades para un analista de datos:
 Dominio de SQL: capacidad para escribir y ejecutar consultas SQL complejas.
 - [Y] Completado
 Conocimiento de Microsoft Excel: habilidad para utilizar hojas de cálculo para analizar y visualizar datos.
-- [Y] Completado
+- [ ] Completado
 Habilidad para trabajar con grandes conjuntos de datos y limpiar datos.
 - [ ] Completado
 Conocimiento de estadísticas y capacidad para aplicar técnicas estadísticas para analizar datos.
-- [Y] Completado
+- [ ] Completado
 Habilidad para crear visualizaciones de datos efectivas y comprensibles. 
 - [ ] Completado
 Habilidad para comunicar resultados y hallazgos de manera clara y efectiva a diferentes audiencias.
 - [ ] Completado
 Conocimiento de lenguajes de programación como Python o R.
-- [Y] Completado
+- [ ] Completado
 Habilidad para trabajar en equipo y colaborar con otros departamentos.
 - [ ] Completado
 Capacidad para resolver problemas complejos y tomar decisiones informadas basadas en datos. 
 - [ ] Completado
 Conocimiento de bases de datos y herramientas de análisis de datos como Tableau, Power BI o SAS.
-- [Y] Completado
+- [ ] Completado
 -================================================-
 ¿Qué tipos de cuentas (productos) están disponibles en GitHub?
 GitHub ofrece tres tipos de cuentas para los usuarios: 
@@ -121,3 +121,4 @@ Con una cuenta personal en GitHub, puede crear y alojar repositorios de código 
 -================================================-
 GitHub repository
 https://github.com/MilitiaIV/Homework_SubModulo
+
