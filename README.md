@@ -93,8 +93,6 @@ Portafolio de Galería
 -================================================-  
 lista de verificación de habilidades para un analista de datos:  
 Dominio de SQL: capacidad para escribir y ejecutar consultas SQL complejas.
-
-
 - [ ] Completado
 Conocimiento de Microsoft Excel: habilidad para utilizar hojas de cálculo para analizar y visualizar datos.
 - [ ] Completado
