@@ -86,11 +86,8 @@ Actualización de Lista de Verificación (12 de octubre de 2023):
     - [ ] Completado
 12. Enlaces y Contacto:
     - [ ] Completado
-Styles
-Portafolio Minimalista
-Portafolio Interactivo
-Portafolio de Galería  
--================================================-  
+
+
 lista de verificación de habilidades para un analista de datos:  
 Dominio de SQL: capacidad para escribir y ejecutar consultas SQL complejas.
 - [ ] Completado
