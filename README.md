@@ -1,4 +1,4 @@
-# Test_SubModulo
+# Homework_SubModulo
 Projects List
 Antonio Gael Olivares Guerrero
 1.- Harrison Jansma
@@ -92,20 +92,32 @@ Portafolio Interactivo
 Portafolio de Galería
 -================================================-
 lista de verificación de habilidades para un analista de datos:
-	Dominio de SQL: capacidad para escribir y ejecutar consultas SQL complejas.
-	Conocimiento de Microsoft Excel: habilidad para utilizar hojas de cálculo para analizar y visualizar datos. []
-	Habilidad para trabajar con grandes conjuntos de datos y limpiar datos. []
-	Conocimiento de estadísticas y capacidad para aplicar técnicas estadísticas para analizar datos. []
-	Habilidad para crear visualizaciones de datos efectivas y comprensibles. []
-	Habilidad para comunicar resultados y hallazgos de manera clara y efectiva a diferentes audiencias. []
-	Conocimiento de lenguajes de programación como Python o R. []
-	Habilidad para trabajar en equipo y colaborar con otros departamentos. []
-	Capacidad para resolver problemas complejos y tomar decisiones informadas basadas en datos. []
-	Conocimiento de bases de datos y herramientas de análisis de datos como Tableau, Power BI o SAS. []
+Dominio de SQL: capacidad para escribir y ejecutar consultas SQL complejas.
+- [Y] Completado
+Conocimiento de Microsoft Excel: habilidad para utilizar hojas de cálculo para analizar y visualizar datos.
+- [Y] Completado
+Habilidad para trabajar con grandes conjuntos de datos y limpiar datos.
+- [ ] Completado
+Conocimiento de estadísticas y capacidad para aplicar técnicas estadísticas para analizar datos.
+- [Y] Completado
+Habilidad para crear visualizaciones de datos efectivas y comprensibles. 
+- [ ] Completado
+Habilidad para comunicar resultados y hallazgos de manera clara y efectiva a diferentes audiencias.
+- [ ] Completado
+Conocimiento de lenguajes de programación como Python o R.
+- [Y] Completado
+Habilidad para trabajar en equipo y colaborar con otros departamentos.
+- [ ] Completado
+Capacidad para resolver problemas complejos y tomar decisiones informadas basadas en datos. 
+- [ ] Completado
+Conocimiento de bases de datos y herramientas de análisis de datos como Tableau, Power BI o SAS.
+- [Y] Completado
 -================================================-
 ¿Qué tipos de cuentas (productos) están disponibles en GitHub?
 GitHub ofrece tres tipos de cuentas para los usuarios: 
 una cuenta personal gratuita una cuenta organizativa de pago para empresas y organizaciones y una cuenta gratuita para estudiantes que incluye acceso a herramientas de desarrollo adicionales. Cada tipo de cuenta tiene diferentes características y precios, lo que permite a los usuarios seleccionar la opción que mejor se adapte a sus necesidades.
 ¿Qué se puede hacer con una cuenta personal?
 Con una cuenta personal en GitHub, puede crear y alojar repositorios de código para sus proyectos, colaborar con otros usuarios en proyectos, controlar versiones de código y administrar problemas y solicitudes de extracción. También puede personalizar su perfil de usuario, seguir a otros usuarios y descubrir proyectos interesantes. Además, con una cuenta personal gratuita, puede acceder a funciones básicas de control de versiones y colaboración, incluyendo la capacidad de clonar repositorios públicos y contribuir a proyectos de código abierto.
-
+-================================================-
+GitHub repository
+https://github.com/MilitiaIV/Homework_SubModulo
