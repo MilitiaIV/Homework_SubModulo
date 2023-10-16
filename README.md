@@ -92,24 +92,24 @@ Portafolio Interactivo
 Portafolio de Galería  
 -================================================-  
 lista de verificación de habilidades para un analista de datos:  
-Dominio de SQL: capacidad para escribir y ejecutar consultas SQL complejas.  
-- [ ] Completado
-Conocimiento de Microsoft Excel: habilidad para utilizar hojas de cálculo para analizar y visualizar datos.  
-- [ ] Completado
-Habilidad para trabajar con grandes conjuntos de datos y limpiar datos.  
-- [ ] Completado
-Conocimiento de estadísticas y capacidad para aplicar técnicas estadísticas para analizar datos.  
-- [ ] Completado
-Habilidad para crear visualizaciones de datos efectivas y comprensibles.  
-- [ ] Completado
-Habilidad para comunicar resultados y hallazgos de manera clara y efectiva a diferentes audiencias.  
-- [ ] Completado
-Conocimiento de lenguajes de programación como Python o R.  
-- [ ] Completado
-Habilidad para trabajar en equipo y colaborar con otros departamentos.  
-- [ ] Completado
-Capacidad para resolver problemas complejos y tomar decisiones informadas basadas en datos.  
-- [ ] Completado
-Conocimiento de bases de datos y herramientas de análisis de datos como Tableau, Power BI o SAS.  
+Dominio de SQL: capacidad para escribir y ejecutar consultas SQL complejas.
+- [ ] Completado  
+Conocimiento de Microsoft Excel: habilidad para utilizar hojas de cálculo para analizar y visualizar datos.
+- [ ] Completado  
+Habilidad para trabajar con grandes conjuntos de datos y limpiar datos.
+- [ ] Completado  
+Conocimiento de estadísticas y capacidad para aplicar técnicas estadísticas para analizar datos.
+- [ ] Completado  
+Habilidad para crear visualizaciones de datos efectivas y comprensibles. 
+- [ ] Completado  
+Habilidad para comunicar resultados y hallazgos de manera clara y efectiva a diferentes audiencias.
+- [ ] Completado  
+Conocimiento de lenguajes de programación como Python o R.
+- [ ] Completado  
+Habilidad para trabajar en equipo y colaborar con otros departamentos.
+- [ ] Completado  
+Capacidad para resolver problemas complejos y tomar decisiones informadas basadas en datos.
+- [ ] Completado  
+Conocimiento de bases de datos y herramientas de análisis de datos como Tableau, Power BI o SAS.
 - [ ] Completado  
 
