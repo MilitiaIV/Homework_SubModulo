@@ -60,8 +60,8 @@ CheckList
     - Formato fácil de leer y navegar
 12. Enlaces y Contacto:
     - Enlaces a perfiles de redes sociales profesionales
-    - Información de contacto actualizado
-Actualización de Lista de Verificación (12 de octubre de 2023):
+    - Información de contacto actualizado  
+Actualización de Lista de Verificación (12 de octubre de 2023):  
 1. Portada:
    - [ ] Completado
 2. Introducción:
@@ -89,7 +89,7 @@ Actualización de Lista de Verificación (12 de octubre de 2023):
 Styles
 Portafolio Minimalista
 Portafolio Interactivo
-Portafolio de Galería
+Portafolio de Galería  
 -================================================-  
 lista de verificación de habilidades para un analista de datos:  
 Dominio de SQL: capacidad para escribir y ejecutar consultas SQL complejas.
@@ -111,13 +111,13 @@ Habilidad para trabajar en equipo y colaborar con otros departamentos.
 Capacidad para resolver problemas complejos y tomar decisiones informadas basadas en datos. 
 - [ ] Completado
 Conocimiento de bases de datos y herramientas de análisis de datos como Tableau, Power BI o SAS.
-- [ ] Completado
+- [ ] Completado  
 -================================================-  
 ¿Qué tipos de cuentas (productos) están disponibles en GitHub?  
 GitHub ofrece tres tipos de cuentas para los usuarios: 
-una cuenta personal gratuita una cuenta organizativa de pago para empresas y organizaciones y una cuenta gratuita para estudiantes que incluye acceso a herramientas de desarrollo adicionales. Cada tipo de cuenta tiene diferentes características y precios, lo que permite a los usuarios seleccionar la opción que mejor se adapte a sus necesidades.
+una cuenta personal gratuita una cuenta organizativa de pago para empresas y organizaciones y una cuenta gratuita para estudiantes que incluye acceso a herramientas de desarrollo adicionales. Cada tipo de cuenta tiene diferentes características y precios, lo que permite a los usuarios seleccionar la opción que mejor se adapte a sus necesidades.  
 ¿Qué se puede hacer con una cuenta personal?  
-Con una cuenta personal en GitHub, puede crear y alojar repositorios de código para sus proyectos, colaborar con otros usuarios en proyectos, controlar versiones de código y administrar problemas y solicitudes de extracción. También puede personalizar su perfil de usuario, seguir a otros usuarios y descubrir proyectos interesantes. Además, con una cuenta personal gratuita, puede acceder a funciones básicas de control de versiones y colaboración, incluyendo la capacidad de clonar repositorios públicos y contribuir a proyectos de código abierto.
+Con una cuenta personal en GitHub, puede crear y alojar repositorios de código para sus proyectos, colaborar con otros usuarios en proyectos, controlar versiones de código y administrar problemas y solicitudes de extracción. También puede personalizar su perfil de usuario, seguir a otros usuarios y descubrir proyectos interesantes. Además, con una cuenta personal gratuita, puede acceder a funciones básicas de control de versiones y colaboración, incluyendo la capacidad de clonar repositorios públicos y contribuir a proyectos de código abierto.  
 -================================================-  
 GitHub repository
 https://github.com/MilitiaIV/Homework_SubModulo
