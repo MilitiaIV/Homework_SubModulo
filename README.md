@@ -1,4 +1,5 @@
 # Homework_SubModulo
+<img src="images/README-md/main_logo.png" width="300">
 Projects List  
 Antonio Gael Olivares Guerrero  
 1.- Harrison Jansma  
